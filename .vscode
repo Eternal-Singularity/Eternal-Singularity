@@ -1,0 +1,22 @@
+{
+  "python.pythonPath": "${workspaceFolder}/venv/bin/python", // Adjust for your virtual environment
+  "editor.formatOnSave": true,
+  "editor.tabSize": 4,
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/*.pyc": true,
+    "**/*.pyo": true,
+    ".DS_Store": true
+  },
+  "files.autoSave": "onFocusChange",
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": true,
+  "python.testing.unittestEnabled": true,
+  "python.testing.pytestEnabled": true,
+  "python.testing.pytestArgs": [
+    "src/tests"
+  ],
+  "python.envFile": "${workspaceFolder}/.env",
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "terminal.integrated.defaultProfile.linux": "bash"
+}
