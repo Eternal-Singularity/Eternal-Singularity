@@ -64,6 +64,8 @@ cd Eternal-Singularity
 ```
 pip install -r requirements.txt
 
+---
+
 3. Run tests to ensure the setup works:
 
 ```
