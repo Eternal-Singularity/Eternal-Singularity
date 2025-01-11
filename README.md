@@ -55,6 +55,8 @@ Prerequisites
 git clone https://github.com/your-username/Eternal-Singularity.git
 cd Eternal-Singularity
 
+```
+
 ---
 
  2. Install dependencies:
