@@ -43,7 +43,9 @@ Eternal-Singularity/
 
 ## 🚀 Getting Started
 Prerequisites
+
 -Python 3.9+
+
 -Pip (Python package manager)
 
 ## Installation
