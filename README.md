@@ -38,6 +38,8 @@ Eternal-Singularity/
 ├── README.md               # Overview of the project
 ├── LICENSE.md              # Licensing details
 └── requirements.txt        # List of dependencies
+```
+---
 
 ## Installation
  1. Clone the repository:
