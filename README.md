@@ -54,3 +54,19 @@ Prerequisites
 ```
 git clone https://github.com/your-username/Eternal-Singularity.git
 cd Eternal-Singularity
+
+ 2. Install dependencies:
+
+```
+pip install -r requirements.txt
+
+3. Run tests to ensure the setup works:
+
+```
+pytest
+
+```
+
+---
+
+##
