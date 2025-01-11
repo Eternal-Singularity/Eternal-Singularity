@@ -69,4 +69,44 @@ pytest
 
 ---
 
-##
+## 📚 Documentation
+Detailed documentation can be found in the docs/ folder. This includes:
+
+-Design architecture
+
+-Use cases
+
+-Technology breakdown
+
+---
+
+## 🤝 Contributing
+We welcome contributions! Please follow these steps:
+
+ 1. Fork the repository
+    
+ 2. Create a new branch for your feature
+
+```
+git checkout -b feature-name
+
+---
+
+ 3. Commit your changes and push to your fork:
+
+```
+git commit -m "Add feature-name"
+git push origin feature-name
+
+---
+
+## 🌟 Acknowledgments
+Eternal Singularity is inspired by the wonders of cosmic phenomena and the limitless potential of artificial intelligence. Special thanks to the open-source community for their support and contributions.
+
+---
+
+## ✨ Stay Connected
+For updates and discussions, visit the Discussions tab or contact us at 
+
+
+
